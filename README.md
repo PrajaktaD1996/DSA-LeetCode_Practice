@@ -7,12 +7,19 @@ This repo contains my daily problem-solving code from platforms like:
 - Striver DSA sheet
 
 ## Topics covered
-1. Array
-2. Strings
-3. LinkList
-4. Recurrsion
-5. Stack & Queue
-6. Binary Tree
-7. Dynamic Programming
-8. Greedy
-9. Backtracking
+1.  Array
+2.  Strings
+3.  LinkList
+4.  Recurrsion
+5.  Stack & Queue
+6.  Binary Tree
+7.  Dynamic Programming
+8.  Greedy
+9.  Backtracking
+10. Bit Manipulation
+11. Loop_Patterns
+12. Sorting
+
+
+### Why this repo?
+To stay consistant track progress and build a strong fondation for top fron-end roles.
