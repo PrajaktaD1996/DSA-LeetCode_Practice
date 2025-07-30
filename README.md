@@ -3,11 +3,19 @@ Welcome to my Data Structure and Algorithms practice repository!
 This repo contains my daily problem-solving code from platforms like:
 
 - LeetCode
-- Bosscoder class
-- Striver DSA sheet
+   https://leetcode.com/progress/
 
-## Topics covered
+- Bosscoder class
+   https://platform.bosscoderacademy.com/course
+
+- Striver DSA sheet
+   https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?tab=t.0
+
+## Topics covered + DSA progress tracker
 1.  Array
+      #26(leetcode):remove-duplicates-from-sorted-array
+      https://leetcode.com/problems/remove-duplicates-from-sorted-array/post-solution/?submissionId=1615615376
+       
 2.  Strings
 3.  LinkList
 4.  Recurrsion
@@ -19,10 +27,6 @@ This repo contains my daily problem-solving code from platforms like:
 10. Bit Manipulation
 11. Loop_Patterns
 12. Sorting
-
-### DSA progress tracker
-|#| Topic    |Problems                             |Status|Remark|
-
 
 #### Why this repo?
 To stay consistant track progress and build a strong fondation for top fron-end roles.
