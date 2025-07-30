@@ -20,6 +20,9 @@ This repo contains my daily problem-solving code from platforms like:
 11. Loop_Patterns
 12. Sorting
 
+### DSA progress tracker
+|#| Topic    |Problems                             |Status|Remark|
 
-### Why this repo?
+
+#### Why this repo?
 To stay consistant track progress and build a strong fondation for top fron-end roles.
