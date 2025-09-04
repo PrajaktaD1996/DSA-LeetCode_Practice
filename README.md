@@ -12,7 +12,7 @@ This repo contains my daily problem-solving code from platforms like:
    https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?tab=t.0
 
 ## Topics covered + DSA progress tracker
-1.  Array
+1.  Array<br>
       #26(leetcode):Easy<br>
       https://leetcode.com/problems/remove-duplicates-from-sorted-array/post-solution/?submissionId=1615615376
        
