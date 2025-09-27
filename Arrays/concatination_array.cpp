@@ -33,7 +33,7 @@ int main(){
     }
 
     //show concatinated array:
-    cout<<"The conncatenated arwrway is as follows:";
+    cout<<"The conncatenated array is as follows:";
     for(int i=0;i<m+n;i++){
         cout<<ar1[i]<<" ";
     }
