@@ -15,18 +15,20 @@ This repo contains my daily problem-solving code from platforms like:
 1.  Array<br>
       #26(leetcode):Easy<br>
       https://leetcode.com/problems/remove-duplicates-from-sorted-array/post-solution/?submissionId=1615615376
+      #42(leetcode):Hard<br>
+      https://leetcode.com/problems/trapping-rain-water/submissions/1920056065/
        
-2.  Strings
-3.  LinkList
-4.  Recurrsion
-5.  Stack & Queue
-6.  Binary Tree
-7.  Dynamic Programming
-8.  Greedy
-9.  Backtracking
-10. Bit Manipulation
-11. Loop_Patterns
-12. Sorting
+3.  Strings
+4.  LinkList
+5.  Recurrsion
+6.  Stack & Queue
+7.  Binary Tree
+8.  Dynamic Programming
+9.  Greedy
+10.  Backtracking
+11. Bit Manipulation
+12. Loop_Patterns
+13. Sorting
 
 #### Why this repo?
 To stay consistant track progress and build a strong fondation for top fron-end roles.
