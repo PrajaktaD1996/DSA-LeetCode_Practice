@@ -27,7 +27,7 @@ This repo contains my daily problem-solving code from platforms like:
 8.  Dynamic Programming
 9.  Greedy
 10.  Backtracking
-11. Bit Manipulation
+11. Bit Manipulation<br>
     #29(leetcode):Medium<br>
     https://leetcode.com/problems/divide-two-integers/description/
     
