@@ -28,8 +28,11 @@ This repo contains my daily problem-solving code from platforms like:
 9.  Greedy
 10.  Backtracking
 11. Bit Manipulation
-12. Loop_Patterns
-13. Sorting
+    #29(leetcode):Medium<br>
+    https://leetcode.com/problems/divide-two-integers/description/
+    
+13. Loop_Patterns
+14. Sorting
 
 #### Why this repo?
 To stay consistant track progress and build a strong fondation for top fron-end roles.
