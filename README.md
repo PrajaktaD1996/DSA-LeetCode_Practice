@@ -23,14 +23,16 @@ This repo contains my daily problem-solving code from platforms like:
       https://leetcode.com/problems/maximum-product-subarray/submissions/1921008627/
        
 3.  Strings
-4.  LinkList
-5.  Recurrsion
-6.  Stack & Queue
-7.  Binary Tree
-8.  Dynamic Programming
-9.  Greedy
-10.  Backtracking
-11. Bit Manipulation<br>
+     #76(leetcode):Hard<br>
+     https://leetcode.com/problems/minimum-window-substring/submissions/1921284833/
+5.  LinkList
+6.  Recurrsion
+7.  Stack & Queue
+8.  Binary Tree
+9.  Dynamic Programming
+10.  Greedy
+11.  Backtracking
+12. Bit Manipulation<br>
     #29(leetcode):Medium<br>
     https://leetcode.com/problems/divide-two-integers/description/
     
