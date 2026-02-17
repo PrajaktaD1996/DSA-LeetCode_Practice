@@ -24,6 +24,9 @@ This repo contains my daily problem-solving code from platforms like:
     
       #303(leetcode):Easy<br>
       https://leetcode.com/problems/range-sum-query-immutable/submissions/1921800176/
+
+      #304(leetcode):Medium<br>
+      https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/1921849185/
        
 3.  Strings<br>
      #76(leetcode):Hard<br>
