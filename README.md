@@ -39,14 +39,16 @@ This repo contains my daily problem-solving code from platforms like:
 7.  Stack & Queue
 8.  Binary Tree
 9.  Dynamic Programming
-10.  Greedy
-11.  Backtracking
-12. Bit Manipulation<br>
+   #139(leetcode):Medium<br>
+   https://leetcode.com/problems/word-break/submissions/1922107611/
+11.  Greedy
+12.  Backtracking
+13. Bit Manipulation<br>
     #29(leetcode):Medium<br>
     https://leetcode.com/problems/divide-two-integers/description/
     
-13. Loop_Patterns
-14. Sorting
+14. Loop_Patterns
+15. Sorting
 
 #### Why this repo?
 To stay consistant track progress and build a strong fondation for top fron-end roles.
