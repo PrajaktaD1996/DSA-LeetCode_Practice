@@ -28,17 +28,20 @@ This repo contains my daily problem-solving code from platforms like:
       #304(leetcode):Medium<br>
       https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/1921849185/
        
-3.  Strings<br>
+2.  Strings<br>
      #76(leetcode):Hard<br>
      https://leetcode.com/problems/minimum-window-substring/submissions/1921284833/
 
     #3(leetcode):Medium<br>
     https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1922043572/
-5.  LinkList
-6.  Recurrsion
-7.  Stack & Queue
-8.  Binary Tree
-9.  Dynamic Programming<br>
+3.  LinkList
+    #2(leetcode):Medium<br>
+    https://leetcode.com/problems/add-two-numbers/submissions/1922433293/
+    
+7.  Recurrsion
+8.  Stack & Queue
+9.  Binary Tree
+10.  Dynamic Programming<br>
    #139(leetcode):Medium<br>
    https://leetcode.com/problems/word-break/submissions/1922107611/
 11.  Greedy
