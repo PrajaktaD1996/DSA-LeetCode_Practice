@@ -21,8 +21,11 @@ This repo contains my daily problem-solving code from platforms like:
     
       #152(leetcode):Medium<br>
       https://leetcode.com/problems/maximum-product-subarray/submissions/1921008627/
+    
+      #303(leetcode):Easy<br>
+      https://leetcode.com/problems/range-sum-query-immutable/submissions/1921800176/
        
-3.  Strings
+3.  Strings<br>
      #76(leetcode):Hard<br>
      https://leetcode.com/problems/minimum-window-substring/submissions/1921284833/
 5.  LinkList
