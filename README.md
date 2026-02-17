@@ -27,14 +27,17 @@ This repo contains my daily problem-solving code from platforms like:
 
       #304(leetcode):Medium<br>
       https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/1921849185/
+
+      #56(leetcode):Medium<br>
+       https://leetcode.com/problems/merge-intervals/submissions/1922476458/
        
-2.  Strings<br>
+3.  Strings<br>
      #76(leetcode):Hard<br>
      https://leetcode.com/problems/minimum-window-substring/submissions/1921284833/
 
     #3(leetcode):Medium<br>
     https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1922043572/
-3.  LinkList
+4.  LinkList
     #2(leetcode):Medium<br>
     https://leetcode.com/problems/add-two-numbers/submissions/1922433293/
     
