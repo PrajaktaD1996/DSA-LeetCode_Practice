@@ -40,6 +40,8 @@ This repo contains my daily problem-solving code from platforms like:
 4.  LinkList
     #2(leetcode):Medium<br>
     https://leetcode.com/problems/add-two-numbers/submissions/1922433293/
+    #25(leetcode):Hard<br>
+    https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1926339557/
     
 7.  Recurrsion
 8.  Stack & Queue
