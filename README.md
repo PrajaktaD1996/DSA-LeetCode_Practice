@@ -40,6 +40,8 @@ This repo contains my daily problem-solving code from platforms like:
     
     #3(leetcode):Medium<br>
     https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1922043572/
+    #125(leetcode):Easy<br>
+    https://leetcode.com/problems/valid-palindrome/submissions/1929478672/
 5.  LinkList
     #2(leetcode):Medium<br>
     https://leetcode.com/problems/add-two-numbers/submissions/1922433293/
