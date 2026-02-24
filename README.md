@@ -34,10 +34,13 @@ This repo contains my daily problem-solving code from platforms like:
 3.  Strings<br>
      #76(leetcode):Hard<br>
      https://leetcode.com/problems/minimum-window-substring/submissions/1921284833/
-
+    
+     #344(leetcode):Easy<br>
+     https://leetcode.com/problems/reverse-string/submissions/1929463002/
+    
     #3(leetcode):Medium<br>
     https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1922043572/
-4.  LinkList
+5.  LinkList
     #2(leetcode):Medium<br>
     https://leetcode.com/problems/add-two-numbers/submissions/1922433293/
     
