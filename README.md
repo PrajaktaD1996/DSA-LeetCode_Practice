@@ -52,13 +52,16 @@ This repo contains my daily problem-solving code from platforms like:
     https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1926339557/
     
 7.  Recurrsion
-8.  Stack & Queue
-9.  Binary Tree
-10.  Dynamic Programming<br>
+    #509(leetcode):Easy<br>
+    https://leetcode.com/problems/fibonacci-number/submissions/1931811322/
+    
+9.  Stack & Queue
+10.  Binary Tree
+11.  Dynamic Programming<br>
    #139(leetcode):Medium<br>
    https://leetcode.com/problems/word-break/submissions/1922107611/
-11.  Greedy
-12.  Backtracking<br>
+12.  Greedy
+13.  Backtracking<br>
      #46(leetcode):Medium<br>
      https://leetcode.com/problems/permutations/submissions/1922389009/
 14. Bit Manipulation<br>
