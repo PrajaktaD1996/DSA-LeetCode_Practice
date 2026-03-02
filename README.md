@@ -18,6 +18,9 @@ This repo contains my daily problem-solving code from platforms like:
     
       #42(leetcode):Hard<br>
       https://leetcode.com/problems/trapping-rain-water/submissions/1920056065/
+
+      #1480(leetcode):Easy<br>
+      https://leetcode.com/problems/running-sum-of-1d-array/submissions/1935576453/
     
       #152(leetcode):Medium<br>
       https://leetcode.com/problems/maximum-product-subarray/submissions/1921008627/
