@@ -19,6 +19,9 @@ This repo contains my daily problem-solving code from platforms like:
       #561(leetcode):Easy<br>
       https://leetcode.com/problems/array-partition/submissions/1935595486/
     
+      #1089(leetcode):Easy<br>
+      https://leetcode.com/problems/duplicate-zeros/submissions/1935611299/
+    
       #42(leetcode):Hard<br>
       https://leetcode.com/problems/trapping-rain-water/submissions/1920056065/
 
