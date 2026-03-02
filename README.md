@@ -16,6 +16,9 @@ This repo contains my daily problem-solving code from platforms like:
       #26(leetcode):Easy<br>
       https://leetcode.com/problems/remove-duplicates-from-sorted-array/post-solution/?submissionId=1615615376
     
+      #561(leetcode):Easy<br>
+      https://leetcode.com/problems/array-partition/submissions/1935595486/
+    
       #42(leetcode):Hard<br>
       https://leetcode.com/problems/trapping-rain-water/submissions/1920056065/
 
