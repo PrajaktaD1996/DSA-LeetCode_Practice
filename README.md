@@ -73,12 +73,14 @@ This repo contains my daily problem-solving code from platforms like:
 13.  Backtracking<br>
      #46(leetcode):Medium<br>
      https://leetcode.com/problems/permutations/submissions/1922389009/
-14. Bit Manipulation<br>
+     #77(leetcode):Medium<br>
+     https://leetcode.com/problems/combinations/submissions/1936834420/
+15. Bit Manipulation<br>
     #29(leetcode):Medium<br>
     https://leetcode.com/problems/divide-two-integers/description/
     
-15. Loop_Patterns
-16. Sorting
+16. Loop_Patterns
+17. Sorting
 
 #### Why this repo?
 To stay consistant track progress and build a strong fondation for top fron-end roles.
