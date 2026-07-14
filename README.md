@@ -17,6 +17,12 @@ This repo contains my daily problem-solving code from platforms like:
 |  | 12-7-26 |[ Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) | [Submission](https://leetcode.com/problems/magnetic-force-between-two-balls/submissions/2064694778/) |![Medium](https://img.shields.io/badge/Medium-yellow)
 |  <b>2 Pointer,Hashing</b> | 12-7-26 |[Container with most water](https://leetcode.com/problems/container-with-most-water/description/) |[Submission](https://leetcode.com/problems/container-with-most-water/submissions/2066402792/) |![Medium](https://img.shields.io/badge/Medium-yellow) |
 |  | 12-7-26 |[Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/description/) | [Submission]() |![Hard](https://img.shields.io/badge/Hard-red) |
+|  | 14-7-26 |[Find Longest Awesome Substring](https://leetcode.com/problems/find-longest-awesome-substring/description/) | [Submission](https://leetcode.com/problems/find-longest-awesome-substring/submissions/2067599764/) |![Hard](https://img.shields.io/badge/Hard-red) |
+|  | 14-7-26 |[Clone a Binary Tree With Random Pointers](https://www.geeksforgeeks.org/dsa/clone-binary-tree-random-pointers/) |  |![Hard](https://img.shields.io/badge/Hard-red) |
+|  | 14-7-26 |[Triplet Sum in Array(3Sum)](https://www.geeksforgeeks.org/dsa/find-a-triplet-that-sum-to-a-given-value/) | |![Hard](https://img.shields.io/badge/Hard-red) |
+|  | 14-7-26 |[Common Elements given in all rows of given matrix](https://www.geeksforgeeks.org/dsa/common-elements-in-all-rows-of-a-given-matrix/) | |![Hard](https://img.shields.io/badge/Hard-red) |
+|  <b>2 Bit-Manipulation</b> | 14-7-26 |[Add Binary](https://leetcode.com/problems/add-binary/description/) |[Submission](https://leetcode.com/problems/add-binary/submissions/2067691756/) |![Easy](https://img.shields.io/badge/Easy-green) |
+
 | YYYY-MM-DD | Dynamic Programming | | ⬜ | |
 
 
