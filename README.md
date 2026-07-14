@@ -4,86 +4,22 @@ This repo contains my daily problem-solving code from platforms like:
 
 - LeetCode<br>
    https://leetcode.com/progress/
+# 📖 DSA Progress Tracker
 
-- Bosscoder class<br>
-   https://platform.bosscoderacademy.com/course
+| Topic | Date | Leetcode-Questions  | LeetCode-Link | Difficulty
+|------|-------|-----------|:------:|--------
+| YYYY-MM-DD | Arrays | | ⬜ | |
+| <b>Searching</b>  |13-7-26 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)| [Submission](https://leetcode.com/problems/search-a-2d-matrix-ii/post-solution/?submissionId=2059569916) |![Medium](https://img.shields.io/badge/Medium-yellow)
+| | 7-7-26 |[Find a peak Element](https://leetcode.com/problems/find-peak-element/description/) |[Submission](https://leetcode.com/problems/find-peak-element/submissions/2059612709/)|![Medium](https://img.shields.io/badge/Medium-yellow)
+|  |12-7-26 |[Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Submission](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2064556242/) |![Medium](https://img.shields.io/badge/Medium-yellow)
+|  |12-7-26  |[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) |[Submission](https://leetcode.com/problems/search-a-2d-matrix/submissions/2064590959/) |![Medium](https://img.shields.io/badge/Medium-yellow)
+|  |12-7-26 |[Smallest Good Base](https://leetcode.com/problems/smallest-good-base/description/) |[Submission](https://leetcode.com/problems/smallest-good-base/submissions/2064655766/ )|![Hard](https://img.shields.io/badge/Hard-red)
+|  | 12-7-26 |[ Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls/description/) | [Submission](https://leetcode.com/problems/magnetic-force-between-two-balls/submissions/2064694778/) |![Medium](https://img.shields.io/badge/Medium-yellow)
+| YYYY-MM-DD | Graph | | ⬜ | |
+| YYYY-MM-DD | Heap | | ⬜ | |
+| YYYY-MM-DD | Dynamic Programming | | ⬜ | |
 
-- Striver DSA sheet<br>
-   https://docs.google.com/document/d/1JLKCaz4n4YtYdQ1bJF1X46BKbxldedb6N1OMiXh9Dmo/edit?tab=t.0
 
-## Topics covered + DSA progress tracker
-1.  Array<br>
-      #26(leetcode):Easy<br>
-      https://leetcode.com/problems/remove-duplicates-from-sorted-array/post-solution/?submissionId=1615615376
-    
-      #561(leetcode):Easy<br>
-      https://leetcode.com/problems/array-partition/submissions/1935595486/
-    
-      #1089(leetcode):Easy<br>
-      https://leetcode.com/problems/duplicate-zeros/submissions/1935611299/
-    
-      #42(leetcode):Hard<br>
-      https://leetcode.com/problems/trapping-rain-water/submissions/1920056065/
 
-      #1480(leetcode):Easy<br>
-      https://leetcode.com/problems/running-sum-of-1d-array/submissions/1935576453/
-    
-      #152(leetcode):Medium<br>
-      https://leetcode.com/problems/maximum-product-subarray/submissions/1921008627/
-    
-      #303(leetcode):Easy<br>
-      https://leetcode.com/problems/range-sum-query-immutable/submissions/1921800176/
-
-      #304(leetcode):Medium<br>
-      https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/1921849185/
-
-      #56(leetcode):Medium<br>
-       https://leetcode.com/problems/merge-intervals/submissions/1922476458/
-       
-3.  Strings<br>
-     #76(leetcode):Hard<br>
-     https://leetcode.com/problems/minimum-window-substring/submissions/1921284833/
-    
-     #344(leetcode):Easy<br>
-     https://leetcode.com/problems/reverse-string/submissions/1929463002/
-    
-    #3(leetcode):Medium<br>
-    https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1922043572/
-    
-    #125(leetcode):Easy<br>
-    https://leetcode.com/problems/valid-palindrome/submissions/1929478672/
-    
-5.  LinkList
-    #2(leetcode):Medium<br>
-    https://leetcode.com/problems/add-two-numbers/submissions/1922433293/
-    
-    #25(leetcode):Hard<br>
-    https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/1926339557/
-    
-7.  Recurrsion<br>
-    #509(leetcode):Easy<br>
-    https://leetcode.com/problems/fibonacci-number/submissions/1931811322/
-    
-9.  Stack & Queue
-10.  Binary Tree
-11.  Dynamic Programming<br>
-   #139(leetcode):Medium<br>
-   https://leetcode.com/problems/word-break/submissions/1922107611/
-12.  Greedy
-13.  Backtracking<br>
-     #46(leetcode):Medium<br>
-     https://leetcode.com/problems/permutations/submissions/1922389009/
-     
-     #77(leetcode):Medium<br>
-     https://leetcode.com/problems/combinations/submissions/1936834420/
-15. Bit Manipulation<br>
-    #29(leetcode):Medium<br>
-    https://leetcode.com/problems/divide-two-integers/description/
-    
-16. Loop_Patterns
-17. Sorting
-
-#### Why this repo?
-To stay consistant track progress and build a strong fondation for top fron-end roles.
 
 
