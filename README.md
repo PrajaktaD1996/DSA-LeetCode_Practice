@@ -23,6 +23,9 @@ This repo contains my daily problem-solving code from platforms like:
 |  | 14-7-26 |[Common Elements given in all rows of given matrix](https://www.geeksforgeeks.org/dsa/common-elements-in-all-rows-of-a-given-matrix/) | |![Hard](https://img.shields.io/badge/Hard-red) |
 |  <b>2 Bit-Manipulation</b> | 14-7-26 |[Add Binary](https://leetcode.com/problems/add-binary/description/) |[Submission](https://leetcode.com/problems/add-binary/submissions/2067691756/) |![Easy](https://img.shields.io/badge/Easy-green) |
 
+|  <b>2 Trees & BST</b> | 16-7-26 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |[Submission](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/2069291863/) |![Hard](https://img.shields.io/badge/Hard-red) |
+
+
 | YYYY-MM-DD | Dynamic Programming | | ⬜ | |
 
 
