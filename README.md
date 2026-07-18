@@ -22,6 +22,7 @@ This repo contains my daily problem-solving code from platforms like:
 |  | 14-7-26 |[Triplet Sum in Array(3Sum)](https://www.geeksforgeeks.org/dsa/find-a-triplet-that-sum-to-a-given-value/) | |![Hard](https://img.shields.io/badge/Hard-red) |
 |  | 14-7-26 |[Common Elements given in all rows of given matrix](https://www.geeksforgeeks.org/dsa/common-elements-in-all-rows-of-a-given-matrix/) | |![Hard](https://img.shields.io/badge/Hard-red) |
 |  <b>2 Bit-Manipulation</b> | 14-7-26 |[Add Binary](https://leetcode.com/problems/add-binary/description/) |[Submission](https://leetcode.com/problems/add-binary/submissions/2067691756/) |![Easy](https://img.shields.io/badge/Easy-green) |
+|  <b>Heap</b> | 14-7-26 |[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/) |[Submission](https://leetcode.com/problems/find-median-from-data-stream/submissions/2071716938/) |![Hard](https://img.shields.io/badge/Hard-red) |
 
 |  <b>2 Trees & BST</b> | 16-7-26 |[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) |[Submission](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/2069291863/) |![Hard](https://img.shields.io/badge/Hard-red) |
 
