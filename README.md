@@ -8,7 +8,7 @@ This repo contains my daily problem-solving code from platforms like:
 
 | Topic | Date | Leetcode-Questions  | LeetCode-Link | Difficulty
 |------|-------|-----------|:------:|--------
-| YYYY-MM-DD | Arrays | | ⬜ | |
+| <b>Array</b>  |19-7-26 | [Two Sum](https://leetcode.com/problems/two-sum/description/)| [Submission](https://leetcode.com/problems/two-sum/submissions/) |![Easy](https://img.shields.io/badge/Easy-green)
 | <b>Searching</b>  |13-7-26 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/)| [Submission](https://leetcode.com/problems/search-a-2d-matrix-ii/post-solution/?submissionId=2059569916) |![Medium](https://img.shields.io/badge/Medium-yellow)
 | | 7-7-26 |[Find a peak Element](https://leetcode.com/problems/find-peak-element/description/) |[Submission](https://leetcode.com/problems/find-peak-element/submissions/2059612709/)|![Medium](https://img.shields.io/badge/Medium-yellow)
 |  |12-7-26 |[Single Element in Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) | [Submission](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/2064556242/) |![Medium](https://img.shields.io/badge/Medium-yellow)
